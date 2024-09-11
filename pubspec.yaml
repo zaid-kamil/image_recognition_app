@@ -38,6 +38,7 @@ dependencies:
   google_generative_ai: ^0.4.6
   image_picker_for_web: ^3.0.5
   huggingface_client: ^1.2.3
+  image_picker: any
 
 dev_dependencies:
   flutter_test:
