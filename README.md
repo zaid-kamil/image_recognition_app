@@ -1,16 +1,13 @@
-# image_recognition_app
+# image recognition app in flutter
 
 An image recognition app using google's gemini in flutter
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
+Screen 1
+![Screen 1](screenshots/image_recognition_1.png)
 
-A few resources to get you started if this is your first Flutter project:
+Screen 2
+![Screen 2](screenshots/image_recognition_2.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
